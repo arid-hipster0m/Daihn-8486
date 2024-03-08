@@ -7,3 +7,4 @@ API Kubernetes Algorithm RabbitMQ Framework A/B Testing Act as if what you do ma
 Scalability The only way to do great work is to love what you do. JavaScript Simplicity is the ultimate sophistication. Parallel Processing
 Framework Serverless Containerization Load Balancing JavaScript Dream big and dare to fail. Automation Edge Computing
 The only way to do great work is to love what you do. Logging A/B Testing Python Kubernetes Optimization Framework Performance Great things never come from comfort zones. IoT Firewalls API Scalability Automation Distributed Systems
+IoT GraphQL Agile Data Science Cloud Functions Optimization DNS Routing Simplicity is the ultimate sophistication.
