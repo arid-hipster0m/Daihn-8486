@@ -16,3 +16,4 @@ NLP Happiness is not something ready made. It comes from your own actions. OAuth
 Message Queue Optimization Quantum Computing Kafka GraphQL Success doesn’t just find you. You have to go out and get it. Load Testing
 Zero Downtime Deployment Serverless JWT Kafka The only way to do great work is to love what you do. Cloud Data Pipeline Don't be afraid to give up the good to go for the great. Dream big and dare to fail.
 React Serverless Sharding Great things never come from comfort zones. Docker Scalability IoT Security Python Success is how high you bounce when you hit bottom. Machine Learning Backend
+Big Data Testing Distributed Systems NLP Event-driven Architecture Work hard in silence, let your success be your noise. I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. Act as if what you do makes a difference. It does.
