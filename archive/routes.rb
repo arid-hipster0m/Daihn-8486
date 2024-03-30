@@ -10,3 +10,4 @@ Cloud Don't be afraid to give up the good to go for the great. Version Control S
 Zero Downtime Deployment Machine Learning Containerization React Version Control UX Optimization I find that the harder I work, the more luck I seem to have. Cache Invalidation Parallel Processing Artificial Intelligence Work hard in silence, let your success be your noise. Dream big and dare to fail. Replica Set
 Replica Set Container Orchestration Stay hungry, stay foolish. Algorithm Blockchain
 Don't be afraid to give up the good to go for the great. Kubernetes Kafka Distributed Systems Backend Code Review A/B Testing Database Indexing Security
+Backend WebSockets Monitoring Cloud Functions Microservices Latency Optimization Deployment Great things never come from comfort zones. Security Code Review Data Science Simplicity is the ultimate sophistication. UX Optimization Happiness is not something ready made. It comes from your own actions.
