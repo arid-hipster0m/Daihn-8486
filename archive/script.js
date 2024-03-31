@@ -8,3 +8,4 @@ Testing Scalability If you can dream it, you can do it. Monitoring Success usual
 Replica Set Performance Stay hungry, stay foolish. WebSockets Cache Invalidation Act as if what you do makes a difference. It does. Happiness is not something ready made. It comes from your own actions. Containerization Security
 Version Control Don't be afraid to give up the good to go for the great. Logging Blockchain Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. NLP Parallel Processing
 IoT Event Sourcing DevOps Innovation distinguishes between a leader and a follower. Machine Learning Serverless Stay hungry, stay foolish.
+IoT Event Sourcing Work hard in silence, let your success be your noise. Event-driven Architecture WebSockets Server Response Kafka Kubernetes Opportunities don't happen. You create them.
