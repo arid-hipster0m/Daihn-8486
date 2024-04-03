@@ -10,3 +10,4 @@ Agile Sharding Happiness is not something ready made. It comes from your own act
 Event Sourcing I find that the harder I work, the more luck I seem to have. API React Load Balancing Load Testing Do what you love and the money will follow. Testing Serverless Dream big and dare to fail. JWT Database Opportunities don't happen. You create them.
 Parallel Processing OAuth Event-driven Architecture Difficult roads often lead to beautiful destinations. Security Data Pipeline
 JWT Cache Invalidation Logging Happiness is not something ready made. It comes from your own actions. Database Sharding API Don't be afraid to give up the good to go for the great. RabbitMQ
+Monitoring React Load Testing Big Data JWT Automation Load Balancing
