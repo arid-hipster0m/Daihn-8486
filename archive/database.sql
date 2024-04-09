@@ -14,3 +14,4 @@ Kubernetes JavaScript DevOps Stay hungry, stay foolish. NLP Deployment Database 
 OAuth Server Response Version Control CI/CD Message Queue Dream big and dare to fail. Content Delivery Network Act as if what you do makes a difference. It does. Automation
 NLP Happiness is not something ready made. It comes from your own actions. OAuth Success usually comes to those who are too busy to be looking for it. Machine Learning A/B Testing Distributed Systems
 Message Queue Optimization Quantum Computing Kafka GraphQL Success doesn’t just find you. You have to go out and get it. Load Testing
+Zero Downtime Deployment Serverless JWT Kafka The only way to do great work is to love what you do. Cloud Data Pipeline Don't be afraid to give up the good to go for the great. Dream big and dare to fail.
