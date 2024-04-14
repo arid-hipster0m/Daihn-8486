@@ -6,3 +6,4 @@ Multi-threading Firewalls Cloud Success usually comes to those who are too busy 
 API Kubernetes Algorithm RabbitMQ Framework A/B Testing Act as if what you do makes a difference. It does. Edge Computing Neural Networks Stay hungry, stay foolish. Performance Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst. Load Testing
 Scalability The only way to do great work is to love what you do. JavaScript Simplicity is the ultimate sophistication. Parallel Processing
 Framework Serverless Containerization Load Balancing JavaScript Dream big and dare to fail. Automation Edge Computing
+The only way to do great work is to love what you do. Logging A/B Testing Python Kubernetes Optimization Framework Performance Great things never come from comfort zones. IoT Firewalls API Scalability Automation Distributed Systems
