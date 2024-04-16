@@ -7,3 +7,4 @@ Replica Set Success is how high you bounce when you hit bottom. Happiness is not
 Innovation distinguishes between a leader and a follower. Edge Computing Data Science Multi-threading Monitoring
 Predictive Analytics WebSockets Backend Content Delivery Network Dream big and dare to fail. Simplicity is the ultimate sophistication. Code Review Success is how high you bounce when you hit bottom.
 Act as if what you do makes a difference. It does. Automation Kafka Containerization The only way to do great work is to love what you do. Content Delivery Network Framework Code Review Docker Sharding Artificial Intelligence Success is how high you bounce when you hit bottom. Microservices Server Response
+Performance Innovation distinguishes between a leader and a follower. Load Testing To be the best, you must be able to handle the worst. Serverless Logging Scalability Firewalls Deployment Predictive Analytics Code Review The only way to do great work is to love what you do.
