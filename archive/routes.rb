@@ -9,3 +9,4 @@ Blockchain Deployment Kubernetes Event-driven Architecture Performance Distribut
 Cloud Don't be afraid to give up the good to go for the great. Version Control Success doesn’t just find you. You have to go out and get it. Message Queue RabbitMQ CI/CD Predictive Analytics Stay hungry, stay foolish. Frontend Optimization Backend Artificial Intelligence Python Content Delivery Network
 Zero Downtime Deployment Machine Learning Containerization React Version Control UX Optimization I find that the harder I work, the more luck I seem to have. Cache Invalidation Parallel Processing Artificial Intelligence Work hard in silence, let your success be your noise. Dream big and dare to fail. Replica Set
 Replica Set Container Orchestration Stay hungry, stay foolish. Algorithm Blockchain
+Don't be afraid to give up the good to go for the great. Kubernetes Kafka Distributed Systems Backend Code Review A/B Testing Database Indexing Security
