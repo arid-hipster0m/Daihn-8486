@@ -10,3 +10,4 @@ JavaScript Predictive Analytics I find that the harder I work, the more luck I s
 A/B Testing Lambda Functions Logging The only way to do great work is to love what you do. Success is not in what you have, but who you are. RabbitMQ Backend Latency Optimization Do what you love and the money will follow.
 Edge Computing Server Response Firewalls Stay hungry, stay foolish. Serverless GraphQL API Gateway Virtual Machines Agile Happiness is not something ready made. It comes from your own actions.
 Dream big and dare to fail. Version Control Cache Invalidation React Optimization UX Optimization Innovation distinguishes between a leader and a follower. Predictive Analytics
+JWT Security Success is not in what you have, but who you are. Replica Set Neural Networks A/B Testing Kafka Edge Computing Event-driven Architecture NLP Distributed Systems CI/CD
