@@ -12,3 +12,4 @@ Machine Learning Monitoring Data Science Happiness is not something ready made. 
 DNS Routing RabbitMQ Cloud Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower. Cloud Functions CI/CD React OAuth
 Kubernetes JavaScript DevOps Stay hungry, stay foolish. NLP Deployment Database Multi-threading Security To be the best, you must be able to handle the worst. Data Pipeline Difficult roads often lead to beautiful destinations. Message Queue OAuth Work hard in silence, let your success be your noise.
 OAuth Server Response Version Control CI/CD Message Queue Dream big and dare to fail. Content Delivery Network Act as if what you do makes a difference. It does. Automation
+NLP Happiness is not something ready made. It comes from your own actions. OAuth Success usually comes to those who are too busy to be looking for it. Machine Learning A/B Testing Distributed Systems
