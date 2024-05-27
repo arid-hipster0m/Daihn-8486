@@ -8,3 +8,4 @@ Performance Opportunities don't happen. You create them. Do what you love and th
 A/B Testing Optimization Big Data Database I find that the harder I work, the more luck I seem to have. Sharding Message Queue Cloud Latency Optimization
 JavaScript Predictive Analytics I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. Simplicity is the ultimate sophistication. DNS Routing Automation Cache Invalidation Edge Computing Artificial Intelligence Great things never come from comfort zones. API
 A/B Testing Lambda Functions Logging The only way to do great work is to love what you do. Success is not in what you have, but who you are. RabbitMQ Backend Latency Optimization Do what you love and the money will follow.
+Edge Computing Server Response Firewalls Stay hungry, stay foolish. Serverless GraphQL API Gateway Virtual Machines Agile Happiness is not something ready made. It comes from your own actions.
