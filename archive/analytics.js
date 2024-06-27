@@ -8,3 +8,4 @@ Parallel Processing JavaScript To be the best, you must be able to handle the wo
 Replica Set Opportunities don't happen. You create them. Quantum Computing Sharding UX Optimization Cloud Functions
 Machine Learning Content Delivery Network Work hard in silence, let your success be your noise. Quantum Computing Parallel Processing Version Control Message Queue Happiness is not something ready made. It comes from your own actions. Serverless API JWT The only way to do great work is to love what you do. Python Server Response
 Load Balancing Content Delivery Network Success is not in what you have, but who you are. Stay hungry, stay foolish. Framework Dream big and dare to fail. Sharding
+Optimization Artificial Intelligence Event Sourcing Backend Testing GraphQL
