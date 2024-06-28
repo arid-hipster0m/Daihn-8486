@@ -5,3 +5,4 @@ Lambda Functions Scalability DNS Routing Simplicity is the ultimate sophisticati
 Stay hungry, stay foolish. Load Testing Parallel Processing Content Delivery Network Cloud Cloud Functions JavaScript
 Deployment Big Data Virtual Machines API Dream big and dare to fail.
 Testing Scalability If you can dream it, you can do it. Monitoring Success usually comes to those who are too busy to be looking for it. API Gateway Backend CI/CD Server Response DevOps WebSockets A/B Testing
+Replica Set Performance Stay hungry, stay foolish. WebSockets Cache Invalidation Act as if what you do makes a difference. It does. Happiness is not something ready made. It comes from your own actions. Containerization Security
