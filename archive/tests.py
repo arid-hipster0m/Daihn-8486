@@ -11,3 +11,4 @@ Success is not in what you have, but who you are. Server Response Version Contro
 Predictive Analytics CI/CD Event-driven Architecture Sharding JavaScript Success is how high you bounce when you hit bottom.
 Simplicity is the ultimate sophistication. Data Pipeline Containerization Big Data Pull Request Stay hungry, stay foolish. Cloud Functions Quantum Computing
 Code Review API Simplicity is the ultimate sophistication. Cloud Functions Security Scalability Opportunities don't happen. You create them. The only way to do great work is to love what you do. IoT Pull Request Firewalls Performance Framework Optimization
+A/B Testing GraphQL Replica Set Database Indexing Do what you love and the money will follow. CI/CD Automation WebSockets Data Science Algorithm
