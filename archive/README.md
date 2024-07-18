@@ -9,3 +9,4 @@ Event-driven Architecture Success is not in what you have, but who you are. Diff
 To be the best, you must be able to handle the worst. Algorithm Multi-threading Big Data If you can dream it, you can do it. React Cloud Functions Sharding
 Zero Downtime Deployment Cloud Functions GraphQL Kafka Logging Python Edge Computing Optimization Database Indexing The only way to do great work is to love what you do. Container Orchestration Scalability Cloud
 Testing Docker Kafka Message Queue Zero Downtime Deployment
+DNS Routing Docker Pull Request API Gateway Success doesn’t just find you. You have to go out and get it. Logging Security Data Pipeline Parallel Processing Machine Learning If you can dream it, you can do it. Neural Networks Frontend Framework Firewalls

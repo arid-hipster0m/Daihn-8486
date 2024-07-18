@@ -7,3 +7,4 @@ Algorithm WebSockets Edge Computing Deployment Security Message Queue Optimizati
 To be the best, you must be able to handle the worst. Act as if what you do makes a difference. It does. Replica Set React API Gateway Dream big and dare to fail. OAuth Edge Computing Innovation distinguishes between a leader and a follower. Load Balancing
 JavaScript Server Response Work hard in silence, let your success be your noise. NLP Blockchain Multi-threading CI/CD Innovation distinguishes between a leader and a follower. Pull Request The only way to do great work is to love what you do. Machine Learning IoT A/B Testing I find that the harder I work, the more luck I seem to have. RabbitMQ
 Database Agile Act as if what you do makes a difference. It does. NLP Success doesn’t just find you. You have to go out and get it. Latency Optimization Load Testing IoT
+Scalability Happiness is not something ready made. It comes from your own actions. Lambda Functions WebSockets Replica Set
