@@ -8,3 +8,4 @@ Code Review Distributed Systems CI/CD Docker Success is not in what you have, bu
 Event-driven Architecture Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Database Indexing Code Review Event Sourcing Testing A/B Testing
 To be the best, you must be able to handle the worst. Algorithm Multi-threading Big Data If you can dream it, you can do it. React Cloud Functions Sharding
 Zero Downtime Deployment Cloud Functions GraphQL Kafka Logging Python Edge Computing Optimization Database Indexing The only way to do great work is to love what you do. Container Orchestration Scalability Cloud
+Testing Docker Kafka Message Queue Zero Downtime Deployment

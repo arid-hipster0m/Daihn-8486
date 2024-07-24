@@ -10,3 +10,4 @@ Automation Version Control Opportunities don't happen. You create them. If you c
 Success is not in what you have, but who you are. Server Response Version Control Act as if what you do makes a difference. It does. Frontend JavaScript Cache Invalidation Firewalls Data Pipeline Machine Learning Difficult roads often lead to beautiful destinations. Testing
 Predictive Analytics CI/CD Event-driven Architecture Sharding JavaScript Success is how high you bounce when you hit bottom.
 Simplicity is the ultimate sophistication. Data Pipeline Containerization Big Data Pull Request Stay hungry, stay foolish. Cloud Functions Quantum Computing
+Code Review API Simplicity is the ultimate sophistication. Cloud Functions Security Scalability Opportunities don't happen. You create them. The only way to do great work is to love what you do. IoT Pull Request Firewalls Performance Framework Optimization
