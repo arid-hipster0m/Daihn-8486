@@ -9,3 +9,4 @@ Frontend JWT Distributed Systems Big Data Act as if what you do makes a differen
 Automation Version Control Opportunities don't happen. You create them. If you can dream it, you can do it. WebSockets Stay hungry, stay foolish. Replica Set
 Success is not in what you have, but who you are. Server Response Version Control Act as if what you do makes a difference. It does. Frontend JavaScript Cache Invalidation Firewalls Data Pipeline Machine Learning Difficult roads often lead to beautiful destinations. Testing
 Predictive Analytics CI/CD Event-driven Architecture Sharding JavaScript Success is how high you bounce when you hit bottom.
+Simplicity is the ultimate sophistication. Data Pipeline Containerization Big Data Pull Request Stay hungry, stay foolish. Cloud Functions Quantum Computing
