@@ -4,3 +4,4 @@ CI/CD Dream big and dare to fail. Happiness is not something ready made. It come
 Testing DevOps Message Queue Success is how high you bounce when you hit bottom. Frontend Pull Request A/B Testing Agile Serverless Work hard in silence, let your success be your noise. Latency Optimization IoT Data Pipeline Cloud Functions GraphQL
 Replica Set UX Optimization Monitoring Zero Downtime Deployment Docker
 Load Testing Stay hungry, stay foolish. Backend Database Indexing Server Response A/B Testing
+Performance Opportunities don't happen. You create them. Do what you love and the money will follow. Python Success doesn’t just find you. You have to go out and get it.
