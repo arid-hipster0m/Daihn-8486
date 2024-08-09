@@ -8,3 +8,4 @@ Scalability Kubernetes Content Delivery Network Blockchain UX Optimization If yo
 Data Science React Do what you love and the money will follow. Backend A/B Testing Message Queue
 Blockchain Microservices UX Optimization Dream big and dare to fail. Container Orchestration Containerization Sharding Performance
 Framework Quantum Computing Database WebSockets Predictive Analytics Artificial Intelligence Version Control Container Orchestration GraphQL Testing IoT
+Machine Learning Monitoring Data Science Happiness is not something ready made. It comes from your own actions. A/B Testing JavaScript Deployment Container Orchestration I find that the harder I work, the more luck I seem to have. Cloud Zero Downtime Deployment Dream big and dare to fail.
