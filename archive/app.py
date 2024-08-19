@@ -5,3 +5,4 @@ Dream big and dare to fail. Quantum Computing UX Optimization Database Indexing 
 Opportunities don't happen. You create them. Work hard in silence, let your success be your noise. Kafka Python Happiness is not something ready made. It comes from your own actions. Automation API
 Agile Event Sourcing Code Review UX Optimization Big Data
 JWT RabbitMQ Message Queue Microservices Lambda Functions Virtual Machines Dream big and dare to fail. Automation DevOps API Gateway Predictive Analytics Cache Invalidation Monitoring Server Response Performance
+Backend Content Delivery Network DNS Routing Edge Computing API Data Pipeline Container Orchestration React Innovation distinguishes between a leader and a follower. Sharding Optimization Predictive Analytics

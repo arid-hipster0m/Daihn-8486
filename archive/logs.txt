@@ -3,3 +3,4 @@ A/B Testing Multi-threading Data Pipeline Data Science Latency Optimization Drea
 CI/CD Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. API Gateway Event-driven Architecture DNS Routing Data Pipeline Zero Downtime Deployment I find that the harder I work, the more luck I seem to have. OAuth NLP
 Testing DevOps Message Queue Success is how high you bounce when you hit bottom. Frontend Pull Request A/B Testing Agile Serverless Work hard in silence, let your success be your noise. Latency Optimization IoT Data Pipeline Cloud Functions GraphQL
 Replica Set UX Optimization Monitoring Zero Downtime Deployment Docker
+Load Testing Stay hungry, stay foolish. Backend Database Indexing Server Response A/B Testing
