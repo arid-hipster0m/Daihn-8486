@@ -5,3 +5,4 @@ I find that the harder I work, the more luck I seem to have. Cache Invalidation 
 Work hard in silence, let your success be your noise. Docker Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. A/B Testing
 Microservices Predictive Analytics Opportunities don't happen. You create them. Load Testing Success is not in what you have, but who you are. Replica Set API Gateway IoT Success doesn’t just find you. You have to go out and get it. Scalability
 Code Review Distributed Systems CI/CD Docker Success is not in what you have, but who you are. Data Pipeline Optimization Innovation distinguishes between a leader and a follower. Content Delivery Network Kubernetes
+Event-driven Architecture Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Database Indexing Code Review Event Sourcing Testing A/B Testing
