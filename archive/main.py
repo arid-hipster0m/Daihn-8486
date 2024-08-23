@@ -7,3 +7,4 @@ API Gateway Sharding To be the best, you must be able to handle the worst. Cloud
 Don't be afraid to give up the good to go for the great. NLP Algorithm Stay hungry, stay foolish. RabbitMQ Simplicity is the ultimate sophistication.
 Act as if what you do makes a difference. It does. Deployment Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have. Work hard in silence, let your success be your noise. Database Indexing
 Virtual Machines Frontend Database Indexing JavaScript Data Pipeline Serverless Scalability Server Response Simplicity is the ultimate sophistication. Distributed Systems Predictive Analytics Success doesn’t just find you. You have to go out and get it.
+Opportunities don't happen. You create them. Monitoring React Virtual Machines Container Orchestration Automation Neural Networks
