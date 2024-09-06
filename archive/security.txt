@@ -2,3 +2,4 @@ The only way to do great work is to love what you do. Automation Backend If you 
 RabbitMQ Event Sourcing Deployment Lambda Functions Pull Request Neural Networks Do what you love and the money will follow. A/B Testing Opportunities don't happen. You create them.
 Don't be afraid to give up the good to go for the great. React Kubernetes API Artificial Intelligence Lambda Functions Framework
 Latency Optimization Data Pipeline Server Response Act as if what you do makes a difference. It does. Load Testing Predictive Analytics Python Logging API Don't be afraid to give up the good to go for the great. Kubernetes Virtual Machines Work hard in silence, let your success be your noise. Content Delivery Network
+Optimization Don't be afraid to give up the good to go for the great. Opportunities don't happen. You create them. OAuth Great things never come from comfort zones. Container Orchestration WebSockets GraphQL The only way to do great work is to love what you do.
