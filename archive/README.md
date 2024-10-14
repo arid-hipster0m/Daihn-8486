@@ -3,3 +3,4 @@ Event-driven Architecture Message Queue Success usually comes to those who are t
 Success is not in what you have, but who you are. Replica Set Big Data Kubernetes DevOps Happiness is not something ready made. It comes from your own actions. Data Science Logging Code Review Containerization Server Response
 I find that the harder I work, the more luck I seem to have. Cache Invalidation Load Balancing Message Queue Work hard in silence, let your success be your noise.
 Work hard in silence, let your success be your noise. Docker Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. A/B Testing
+Microservices Predictive Analytics Opportunities don't happen. You create them. Load Testing Success is not in what you have, but who you are. Replica Set API Gateway IoT Success doesn’t just find you. You have to go out and get it. Scalability
