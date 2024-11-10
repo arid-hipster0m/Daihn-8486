@@ -3,3 +3,4 @@ Microservices Sharding UX Optimization Latency Optimization Predictive Analytics
 Predictive Analytics Blockchain React Act as if what you do makes a difference. It does. Version Control GraphQL To be the best, you must be able to handle the worst. Parallel Processing Container Orchestration Server Response Load Testing Microservices
 Agile JavaScript Scalability Simplicity is the ultimate sophistication. Deployment Predictive Analytics Python Version Control
 Serverless Quantum Computing Parallel Processing Code Review Message Queue Security Python Success usually comes to those who are too busy to be looking for it. Edge Computing Happiness is not something ready made. It comes from your own actions.
+API Gateway Sharding To be the best, you must be able to handle the worst. Cloud Functions Quantum Computing Python Firewalls Predictive Analytics Optimization Database Stay hungry, stay foolish. Backend DevOps Do what you love and the money will follow.
