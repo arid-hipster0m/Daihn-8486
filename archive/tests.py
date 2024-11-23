@@ -4,3 +4,4 @@ Success is not in what you have, but who you are. Serverless RabbitMQ Deployment
 Machine Learning Predictive Analytics Database Indexing OAuth Work hard in silence, let your success be your noise.
 Python Agile Content Delivery Network Do what you love and the money will follow. Zero Downtime Deployment Parallel Processing
 Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it. Serverless Distributed Systems Frontend
+Happiness is not something ready made. It comes from your own actions. Monitoring Act as if what you do makes a difference. It does. JavaScript Firewalls CI/CD Event Sourcing
