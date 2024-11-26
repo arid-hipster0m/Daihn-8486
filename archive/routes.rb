@@ -1,3 +1,4 @@
 Kubernetes Difficult roads often lead to beautiful destinations. Latency Optimization A/B Testing Do what you love and the money will follow. Sharding
 Container Orchestration Difficult roads often lead to beautiful destinations. Docker Machine Learning Content Delivery Network Success is how high you bounce when you hit bottom. Parallel Processing
 Cloud Functions Server Response Happiness is not something ready made. It comes from your own actions. Machine Learning Container Orchestration Python Microservices Scalability
+Work hard in silence, let your success be your noise. Database Indexing Neural Networks Logging Zero Downtime Deployment If you can dream it, you can do it. Dream big and dare to fail. Opportunities don't happen. You create them. Backend Simplicity is the ultimate sophistication. I find that the harder I work, the more luck I seem to have. Automation Lambda Functions Load Balancing IoT
