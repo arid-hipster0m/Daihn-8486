@@ -1,1 +1,2 @@
 A/B Testing Zero Downtime Deployment Automation Containerization Big Data RabbitMQ Performance Great things never come from comfort zones.
+Microservices Sharding UX Optimization Latency Optimization Predictive Analytics Success is how high you bounce when you hit bottom. Testing Success usually comes to those who are too busy to be looking for it. Neural Networks Optimization GraphQL Happiness is not something ready made. It comes from your own actions.
